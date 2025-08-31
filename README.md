@@ -42,7 +42,8 @@ Wireframes act as a communication bridge between designers, developers, and stak
 
 ### Example Classification
 If a wireframe shows **rough sketches with placeholders like boxes and dummy text**, it is a **low-fidelity wireframe**.  
-If it includes **detailed UI elements, real content, and polished structure**, it is a **high-fidelity wireframe**.
+If it includes **detailed UI elements, real content, and polished structure**, it is a **high-fidelity wireframe**. On the
+diagram, it is a **high-fidelity wireframe**
 
 ---
 
